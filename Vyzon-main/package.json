@@ -1,0 +1,28 @@
+{
+    "name": "vyzon",
+    "version": "1.0.1",
+    "description": "A modern programming language inspired by Python, JavaScript, and Ruby.",
+    "main": "vyzon.js",
+    "bin": {
+        "vyzon": "./bin/vyzon"
+    },
+    "scripts": {
+        "test": "node --test tests/*.test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yash7xm/Vyzon"
+    },
+    "keywords": [
+        "programming",
+        "language",
+        "vyzon"
+    ],
+    "author": "Yash Poonia",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/yash7xm/Vyzon/issues"
+    },
+    "homepage": "https://github.com/yash7xm/Vyzon#readme",
+    "dependencies": {}
+}
